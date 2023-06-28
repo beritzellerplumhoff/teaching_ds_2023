@@ -5,4 +5,4 @@ matplotlib==3.5.2
 plotly==5.9.0
 scipy==1.9.1
 matminer==0.8.0
-pymatgen==2023.3.23
+pymatgen==2023.5.10
