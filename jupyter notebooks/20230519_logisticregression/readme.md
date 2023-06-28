@@ -4,7 +4,7 @@ The files in this folder were created for the exercise on 19th May 2023 on the t
 
 ### Access empty notebook
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/beritzellerplumhoff/teaching_ds_2023/HEAD?labpath=jupyter%20notebooks%2F20230519_logisticregression%2F20230519_LogisticRegression_empty.ipynb)
 
 ### Access solution notebook
 
