@@ -1,0 +1,1 @@
+The files Brass_grainsize_0_015mm.csv, Brass_grainsize_0_020mm.csv and Brass_grainsize_0_025mm.csv were taken from Michael N Sakano, Saaketh Desai, Alejandro Strachan (2020), "Linear Regression Young's modulus," https://nanohub.org/resources/youngsmod. (DOI: 10.21981/3NK6-A772) under the GNU General Public License version 3.
