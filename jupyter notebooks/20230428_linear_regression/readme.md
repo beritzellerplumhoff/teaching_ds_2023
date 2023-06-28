@@ -4,6 +4,7 @@ The files in this folder were created for the exercise on 28th April 2023 on the
 
 ### Binder for empty notebook
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/beritzellerplumhoff/teaching_ds_2023/HEAD?labpath=jupyter%20notebooks%2F20230428_linear_regression%2F20230428_DataScience_LinRegression_empty.ipynb)
 
 ### Binder for solution notebook
 
