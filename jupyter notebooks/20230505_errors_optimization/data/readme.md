@@ -1,4 +1,4 @@
-The file xray2845.dat.txt was extract from the [Henke database](https://henke.lbl.gov/optical_constants/)<a name="cite_ref-1"></a>[<sup>[1]</sup>](#cite_note-1).
+The file xray2845.dat.txt was extracted from the [Henke database](https://henke.lbl.gov/optical_constants/)<a name="cite_ref-1"></a>[<sup>[1]</sup>](#cite_note-1).
 
 The file GS_T_YS.xlsx is taken from [Schneider et al., Data in Brief (2020), 28](https://doi.org/10.1016/j.dib.2019.104807)<a name="cite_ref-2"></a>[<sup>[2]</sup>](#cite_note-2), available under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
