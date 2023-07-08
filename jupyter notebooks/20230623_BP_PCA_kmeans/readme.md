@@ -4,7 +4,7 @@ The files in this folder were created for the exercise on 23rd June 2023 on the 
 
 ### Access empty notebook
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/beritzellerplumhoff/teaching_ds_2023/HEAD?labpath=jupyter%20notebooks%2F20230623_BP_PCA_kmeans%2F20230623_Classification_NN_BP_PCA_kmeans_empty.ipynb)
 
 ### Access solution notebook
 
