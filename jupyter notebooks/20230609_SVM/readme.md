@@ -4,11 +4,11 @@ The files in this folder were created for the exercise on 9th June 2023 on the t
 
 ### Access empty notebook
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/beritzellerplumhoff/teaching_ds_2023/HEAD?labpath=%2Fjupyter%20notebooks%2F20230609_SVM%2F20230609_Classification_ROC_knn_DecTree_RF_SVM_new_empty.ipynb)
 
 ### Access solution notebook
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/beritzellerplumhoff/teaching_ds_2023/HEAD?labpath=%2Fjupyter%20notebooks%2F20230609_SVM%2F20230609_Classification_ROC_knn_DecTree_RF_SVM_new.ipynb)
 
 <a name="cite_note-1"></a>1.[^](#cite_ref-1) Y. Zhuo, A.M. Tehrani, and J. Brgoch, J. Phys. Chem. Lett. 2018, 9, 7, 1668–1673, https://doi.org/10.1021/acs.jpclett.8b00124
 
