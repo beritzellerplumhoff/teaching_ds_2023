@@ -4,7 +4,7 @@ The files in this folder were created for the exercise on 9th June 2023 on the t
 
 ### Access empty notebook
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/beritzellerplumhoff/teaching_ds_2023/HEAD?labpath=jupyter%20notebooks%2F20230616_neural_networks%2F20230616_Classification_ROC_knn_DecTree_RF_SVM_NN_empty.ipynb)
 
 ### Access solution notebook
 
